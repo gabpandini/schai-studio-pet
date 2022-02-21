@@ -1,0 +1,26 @@
+.Header{
+    background-color: #0085AA;
+    height: 100px;
+    color: #FFF;
+
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 30px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Header--image {
+    width: auto;
+    height: 65%;
+    margin-left: 60px;
+}
+
+.Header--div{
+    margin-right: 60px;
+    display: flex;
+    justify-content: space-between;
+    width: 30vw;
+}
