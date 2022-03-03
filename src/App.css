@@ -1,0 +1,13 @@
+.App {
+    display: grid;
+    grid-template-rows: 15vh 85vh;
+    grid-template-areas: "h" "b";
+}
+
+.App__header {
+    grid-area: h;
+}
+
+.App__body {
+    grid-area: b;
+}
