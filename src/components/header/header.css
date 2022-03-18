@@ -1,5 +1,5 @@
 .Header{
-    background-color: #0085AA;
+    background-color: var(--turquesa);
     height: 100%;
 
     font-family: Montserrat;
